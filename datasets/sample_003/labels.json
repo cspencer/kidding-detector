@@ -1,15 +1,15 @@
 {
     "00:00" : "background",
-    "05:09" : "pre-kidding",
+    "05:09" : "light-kidding",
     "05:23" : "background",
-    "06:17" : "pre-kidding",
+    "06:17" : "light-kidding",
     "06:39" : "background",
-    "08:20" : "pre-kidding",
+    "08:20" : "light-kidding",
     "08:35" : "background",
-    "12:47" : "pre-kidding",
+    "12:47" : "light-kidding",
     "12:56" : "background",
-    "13:10" : "kidding",
+    "13:10" : "heavy-kidding",
     "13:37" : "background",
-    "13:46" : "kidding",
+    "13:46" : "heavy-kidding",
     "14:16" : "background"
 }
